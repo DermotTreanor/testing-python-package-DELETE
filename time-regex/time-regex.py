@@ -10,4 +10,4 @@ def main():
     print("Combining the 're' module with the 'time' module. Here are their descriptions.")
 
 if __name__ == '__main__':
-    main()
+   show_combined_docs() 

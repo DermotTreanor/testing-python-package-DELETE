@@ -1,0 +1,9 @@
+README.md
+setup.py
+first_package.egg-info/PKG-INFO
+first_package.egg-info/SOURCES.txt
+first_package.egg-info/dependency_links.txt
+first_package.egg-info/top_level.txt
+tests/__init__.py
+time_regex/__init__.py
+time_regex/tre.py
